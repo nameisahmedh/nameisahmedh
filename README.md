@@ -1,262 +1,348 @@
-<!-- ================= HERO SECTION ================= -->
-
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
 
-  <h1 align="center">Hi, I'm <span style="color:#38BDAE;">Mohammad Kammar Ahmed</span> 👋</h1>
+<!-- Premium Data Science Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Kammar%20Ahmed&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAE&center=true&vCenter=true&width=720&lines=Machine+Learning+Engineer+%7C+Data+Scientist;Building+Production-Grade+AI+Systems;LLM+Integrations+%7C+Agentic+AI+Workflows;Full+Stack+Developer+%7C+React+%26+Flask" alt="Typing SVG" />
-  </a>
+<br/>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdae,100:7c4dff&height=120&section=header"/>
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=📊+Data+Science+Student;🤖+ML+Practitioner;🚀+Building+ML+Projects" alt="Title" />
 
----
+<br/><br/>
 
-<!-- ================= QUICK LINKS ================= -->
-
-<div align="center">
-  
-  <a href="#-about-me--data-science-machine-learning-ai">
-    <img src="https://img.shields.io/badge/About_Me-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="#-core-expertise--ai--ml-mastery">
-    <img src="https://img.shields.io/badge/AI_&_ML_Skills-0b7285?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  </a>
-  <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/Projects-3c096c?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="#-github-stats">
-    <img src="https://img.shields.io/badge/GitHub_Stats-0f172a?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  📊 Data Science Student  |  🤖 ML Practitioner  |  🚀 AI Explorer
+  Building Production-Ready ML Systems & Predictive Models
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
 ---
 
-<!-- ================= SOCIALS ================= -->
-
+<!-- Navigation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Connect+with+me+%F0%9F%91%89" alt="connect" />
-  
-  <a href="https://linkedin.com/in/mohammad-kammar-ahmed-48b391253">
-    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mdqamarahmed123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/nameisahmedh">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
 
----
+### 🧭 **Quick Navigation**
 
-## 🧊 About Me — *Data Science · Machine Learning · AI*
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td width="60%" style="vertical-align:top; border: none;">
-        
-🎓 **Final Year B.Tech (CSE - Data Science)** student focused on building **intelligent, production-ready ML systems**.  
-💡 Love working where **Data Science meets Software Engineering** – taking models beyond notebooks into **real users & real impact**.  
-🚀 Currently exploring **Agentic AI**, **LLM-powered tools**, and **autonomous decision-making systems**.  
-
-> 💭 **Mission:** Convert raw data into **ethical, scalable AI products** that solve real-world problems.
-
-      </td>
-      <td width="40%" align="center" style="border: none;">
-        
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&layout=compact&theme=tokyonight&hide_border=true" />
-  
-      </td>
-    </tr>
-  </table>
+<a href="#-about-me">
+  <img src="https://custom-icon-badges.demolab.com/badge/-About-1e3a8a?style=for-the-badge&logo=person&logoColor=white&labelColor=00D9FF" />
+</a>
+<a href="#-skills">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Skills-4c1d95?style=for-the-badge&logo=brain&logoColor=white&labelColor=A78BFA" />
+</a>
+<a href="#-tech-stack">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Tech-0c4a6e?style=for-the-badge&logo=tools&logoColor=white&labelColor=38BDF8" />
+</a>
+<a href="#-projects">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Projects-164e63?style=for-the-badge&logo=rocket&logoColor=white&labelColor=22D3EE" />
+</a>
+<a href="#-stats">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Stats-1e1b4b?style=for-the-badge&logo=graph&logoColor=white&labelColor=818CF8" />
+</a>
 
 </div>
 
 ---
 
-## 🧠 Core Expertise — *AI & ML Mastery*
-
+<!-- Social Links -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" style="vertical-align:top; border: none;">
 
-### 🔹 Data Science & Machine Learning  
+<a href="https://linkedin.com/in/mohammad-kammar-ahmed-48b391253">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mdqamarahmed123@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/nameisahmedh">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-- Data wrangling, preprocessing & **feature engineering** with `pandas`, `numpy`, `scikit-learn`.  
-- **Supervised & unsupervised ML**: Logistic Regression, SVM, Random Forest, XGBoost, CatBoost, KNN.  
-- Handling **imbalanced datasets** with `SMOTE` and evaluation using **Precision, Recall, F1, ROC-AUC**.  
-- **Feature selection** (Chi-Squared, correlation-based) for interpretable and robust models.  
-- Delivered **medical & business ML systems** with a focus on reliability & explainability.  
+<br/>
 
-      </td>
-      <td width="50%" style="vertical-align:top; border: none;">
+<img src="https://komarev.com/ghpvc/?username=nameisahmedh&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
 
-### 🤖 Generative & Applied AI  
-
-- Integrated **Google Gemini**, **OpenAI**, and **Perplexity AI** into real-world applications.  
-- Built AI tools for **resume analysis, content generation, semantic scoring, decision support**.  
-- Experimenting with **Agentic AI**, tool-using LLMs & multi-step reasoning workflows.  
-- Strong focus on **prompt engineering + system design** as key levers for powerful AI behaviour.  
-
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## 🧩 From Models to Production
+## 👨‍💻 **About Me**
 
 <div align="center">
-  
-  <table>
-    <tr>
-      <td style="border: none;">
-        
-- Designed **automated ML pipelines** from ingestion → preprocessing → training → deployment.  
-- Deployed models via **Flask APIs**, and full-stack apps on **Render & Vercel**.  
-- Emphasis on **clean architecture**, reproducibility, and **user-centric UX** on top of ML.  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=38bdae&center=true&width=500&height=40&lines=Analyzing+Data++;Building+ML+Models++;Integrating+LLMs++;Deploying+AI+Pipelines++" />
-</p>
+<table>
+<tr>
+<td align="center">
 
-      </td>
-    </tr>
-  </table>
+### Mohammad Kammar Ahmed
+
+🎓 **Data Science Student**  
+📚 B.Tech CSE (Data Science)  
+📍 India 🇮🇳
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 💡 What I Do
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🤖 Machine Learning**  
+Building predictive models  
+& analytics systems
+
+</td>
+<td width="33%" align="center">
+
+**📊 Data Science**  
+Data visualization &  
+statistical analysis
+
+</td>
+<td width="33%" align="center">
+
+**🚀 Deployment**  
+Flask APIs &  
+cloud platforms
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎯 Current Focus
+
+📊 Building end-to-end ML projects  
+🧠 Learning advanced ML techniques  
+🚀 Deploying models to production
+
+<br/>
+
+### 🌟 Mission
+
+*"Transform data into actionable insights and create real impact"*
+
 </div>
 
 ---
 
-## 💻 Tech Arsenal
+## 🧠 **Skills**
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="33%" align="center" style="border: none;">
 
-### 🧠 AI & Data Science  
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+### **Data Science & ML**
 
-      </td>
-      <td width="33%" align="center" style="border: none;">
+✨ **Data Analysis**  
+→ pandas, numpy, matplotlib, seaborn  
+→ EDA & statistical modeling  
 
-### ⚙️ Backend & Deployment  
+✨ **ML Algorithms**  
+→ Regression, Classification, Clustering  
+→ XGBoost, Random Forest, SVM  
 
-<img src="https://img.shields.io/badge/Flask-20232A?style=for-the-badge&logo=flask&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+✨ **Advanced Techniques**  
+→ SMOTE, Feature Selection  
+→ Hyperparameter Tuning  
 
-      </td>
-      <td width="33%" align="center" style="border: none;">
+</td>
+<td width="50%" valign="top">
 
-### 🎨 Frontend & LLMs  
+### **ML Deployment**
 
-<img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/><br/>
-<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge"/><br/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai"/><br/>
-<img src="https://img.shields.io/badge/Perplexity_AI-222?style=for-the-badge"/>
+✨ **Production**  
+→ Flask APIs for ML models  
+→ Model serialization  
 
-      </td>
-    </tr>
-  </table>
+✨ **Full Stack**  
+→ React + Flask applications  
+→ Interactive dashboards  
+
+✨ **Cloud & AI**  
+→ Render & Vercel deployment  
+→ LLM Integration  
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💻 **Tech Stack**
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%" style="border: none;">
 
-### 🤖 Arix – AI Content Engine  
-🔗 [arix-ai.vercel.app](https://arix-ai.vercel.app)  
+### 🧠 **AI & Machine Learning**
 
-- Gemini-powered **content creation** for text, images & utilities.  
-- Built for **creators, students, and professionals** needing fast AI assistance.  
-- **Stack:** React 19, Node.js, Cloudinary, Gemini API.  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 📄 Arix AI Resume Analyzer  
-🔗 [Live Demo](https://arixai-resume-analyzer.vercel.app/)  
+### 🤖 **LLMs & AI**
 
-- ATS-style **resume vs JD analysis** with section-wise scoring.  
-- Uses **Perplexity AI** for semantic understanding & scoring.  
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-1C1C1C?style=for-the-badge&logo=ai&logoColor=white)
 
-      </td>
-      <td width="50%" style="border: none;">
+### ⚙️ **Backend & Deployment**
 
-### 🩺 Stroke Prediction ML System  
-🔗 [View Project](https://strokeprediction-1-1ykl.onrender.com/)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-- 7+ ML models (XGBoost, CatBoost, SVM, RF) in a unified interface.  
-- **SMOTE**, feature selection & detailed evaluation metrics.  
-- **Stack:** Python, Flask, scikit-learn, XGBoost, Render.  
+### 🎨 **Frontend**
 
-### 🌸 Iris ML Suite  
-🔗 [View App](https://iris-classification2.onrender.com/)  
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- Interactive ML visualization & prediction app.  
-- Great for **learning ML intuitively** with real-time inference.  
-
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 **Featured Projects**
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="100%" align="center" style="border: none;">
-        
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nameisahmedh&theme=tokyo-night&hide_border=true"/>
 
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=nameisahmedh&theme=tokyonight&hide_border=true"/>
+### 🤖 **Arix – AI Content Engine**
 
-      </td>
-    </tr>
-  </table>
+<a href="https://arix-ai.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-38BDAE?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+**Features:**  
+🎨 Gemini-powered content creation  
+🖼️ Text & image generation  
+⚡ Built for creators & professionals  
+
+**Tech:** React 19, Node.js, Gemini API  
+
+---
+
+### 📄 **Arix AI Resume Analyzer**
+
+<a href="https://arixai-resume-analyzer.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-7C4DFF?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+**Features:**  
+📊 ATS-style resume analysis  
+🎯 Section-wise scoring  
+🤖 Perplexity AI semantic matching  
+
+**Tech:** React, Perplexity AI  
+
+</td>
+<td width="50%" valign="top">
+
+### 🩺 **Stroke Prediction ML System**
+
+<a href="https://strokeprediction-1-1ykl.onrender.com/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-F75C7E?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+**Features:**  
+🎯 7+ ML models (XGBoost, SVM, RF)  
+⚖️ SMOTE for imbalanced data  
+📈 Comprehensive evaluation  
+
+**Tech:** Python, Flask, scikit-learn  
+
+---
+
+### 🌸 **Iris ML Suite**
+
+<a href="https://iris-classification2.onrender.com/">
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-FFA500?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+**Features:**  
+📊 Interactive ML visualizations  
+🎓 Educational ML tool  
+⚡ Real-time predictions  
+
+**Tech:** Python, Flask  
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 **GitHub Stats**
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+<div align="center">
+
+<!-- Premium Stats Cards -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=FFFFFF&border_radius=12&count_private=false&include_all_commits=false" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nameisahmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&border_radius=12" />
+
+<br/><br/>
+
+<!-- Top Languages -->
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=12&layout=compact&langs_count=8" />
+
+<br/><br/>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=nameisahmedh&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+
+</div>
 
 ---
 
-## 📫 Let’s Connect
+## 📬 **Let's Connect**
 
-- 🔎 Open to **AI / ML / Data Science Internships and Roles**  
-- 📧 **mdqamarahmed123@gmail.com**  
-- 🌐 [Portfolio Projects](https://github.com/nameisahmedh)
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c4dff,100:38bdae&height=120&section=footer"/>
+### 🎯 **Currently Looking For:**
+
+🔹 Data Science / ML Internships & Full-Time Roles  
+🔹 Collaborative Data Science & ML Projects  
+🔹 Freelance ML Development Opportunities
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
+<div align="center">
+
+**⭐ If you find my projects interesting, give them a star! ⭐**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Made+with+💙+by+Mohammad+Kammar+Ahmed;Thanks+for+visiting!+🚀" alt="Footer" />
+
+</div>
