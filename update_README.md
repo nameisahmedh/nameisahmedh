@@ -40,10 +40,6 @@
 <a href="mailto:mdqamarahmed123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/nameisahmedh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=nameisahmedh&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views"/>
-
 </div>
 
 ---
@@ -90,9 +86,9 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🤖 Data Science & ML</h3>
+<h3>🤖 Data Science & ML</h3>
 
 **📊 Data Analysis**  
 → pandas, numpy, matplotlib, seaborn  
@@ -107,9 +103,9 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 → Hyperparameter Tuning  
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<h3 align="center">🚀 ML Deployment</h3>
+<h3>🚀 ML Deployment</h3>
 
 **🔧 Production**  
 → Flask APIs for ML models  
@@ -175,7 +171,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🤖 **Arix – AI Content Engine**
 
@@ -210,7 +206,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 **Tech:** React, Perplexity AI  
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 ### 🩺 **Stroke Prediction ML System**
 
