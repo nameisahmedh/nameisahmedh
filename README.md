@@ -38,10 +38,10 @@
 <a href="#-tech-stack">
   <img src="https://custom-icon-badges.demolab.com/badge/-Tech-0c4a6e?style=for-the-badge&logo=tools&logoColor=white&labelColor=38BDF8" />
 </a>
-<a href="#-projects">
+<a href="#-featured-projects">
   <img src="https://custom-icon-badges.demolab.com/badge/-Projects-164e63?style=for-the-badge&logo=rocket&logoColor=white&labelColor=22D3EE" />
 </a>
-<a href="#-stats">
+<a href="#-github-stats">
   <img src="https://custom-icon-badges.demolab.com/badge/-Stats-1e1b4b?style=for-the-badge&logo=graph&logoColor=white&labelColor=818CF8" />
 </a>
 
@@ -325,23 +325,13 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 <br/>
 
 <!-- Stats Cards Row -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=false&include_all_commits=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=false&include_all_commits=false" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=nameisahmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&border_radius=10" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nameisahmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&border_radius=10" />
-</picture>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=false&include_all_commits=false" />
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nameisahmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&border_radius=10" />
 
 <br/><br/>
 
 <!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&layout=compact&langs_count=8" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&layout=compact&langs_count=8" />
-</picture>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&layout=compact&langs_count=8" />
 
 <br/><br/>
 
