@@ -1,24 +1,45 @@
 # 🚀 Hi there, I'm Mohammad Kammar Ahmed!
 
-**Data Scientist | AI Tool Explorer | Full Stack Developer**
-
-📍 **Hyderabad, India**
-<a href="https://www.linkedin.com/in/mohammad-kammar-ahmed-48b391253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:mdqamarahmed123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+%7C+AI+Tool+Explorer;Full+Stack+Developer+%7C+React+19;Building+Scalable+AI+Systems;Integrating+Gemini,+OpenAI,+%26+Perplexity&font=Fira+Code&center=true&width=600&height=50&color=336791&vCenter=true&pause=1000&size=25" alt="Typing SVG" />
+  </a>
+</div>
+<div align="center">
+  📍 **Hyderabad, India** | 
+  <a href="https://www.linkedin.com/in/mohammad-kammar-ahmed-48b391253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="20"/>
+  </a> 
+  <a href="mailto:mdqamarahmed123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="20"/>
+  </a>
+</div>
 
 ---
 
-### 👨‍💻 **About Me**
-
-I am a final-year **B.Tech CSE (Data Science)** student and the **General Secretary of Codeoholics**.
-I am obsessed with exploring new tools and bridging the gap between **Complex Data Science** and **User-Friendly Web Apps**.
-
-* 🔭 **Current Focus:** Building "Arix" ecosystems and mastering Agentic AI.
-* 🧠 **My Strength:** I don't just build models; I deploy them with **React 19** frontends and **SMOTE**-balanced backends.
-* ⚡ **Fun Fact:** I love testing every new AI tool that drops (Gemini, Perplexity, ClipDrop) and integrating them into my projects immediately.
-
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <p>
+        I am a final-year <b>B.Tech CSE (Data Science)</b> student and the <b>General Secretary of Codeoholics</b>. I am obsessed with bridging the gap between complex Data Science and user-friendly web applications.
+      </p>
+      <ul>
+        <li>🔭 <b>Current Focus:</b> Building the "Arix" ecosystem and mastering Agentic AI workflows.</li>
+        <li>🧠 <b>My Strength:</b> I don't just build models; I deploy them with <b>React 19</b> frontends and **SMOTE**-balanced backends.</li>
+        <li>⚡ <b>The Edge:</b> I actively test every new AI tool that drops (Gemini, Perplexity, ClipDrop) and integrate them immediately.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="center">
+      <div align="center">
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmZlZGRkNjFkZGVkZGVkZGVkZGVkZGVkZGVkZGVkZGVkZGVkZGVkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Qndm56rR5hXIk/giphy.gif" width="100%" alt="AI Data Flow Animation" style="border-radius: 10px; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"/>
+      </div>
+    </td>
+  </tr>
+</table>
 ---
 
-### 🛠️ **The Arsenal**
+### 🛠️ The Arsenal
 
 | **Domain** | **Tech Stack** |
 | :--- | :--- |
@@ -29,7 +50,7 @@ I am obsessed with exploring new tools and bridging the gap between **Complex Da
 
 ---
 
-### 🚀 **Featured Projects**
+### 🚀 Featured Projects
 
 #### 🤖 **[Arix: The Ultimate AI Content Engine](https://github.com/nameisahmedh/Arix)**
 > *The Flagship Project integrating Text, Image, and Utility AI.*
@@ -39,7 +60,6 @@ An all-in-one platform utilizing **React 19** and multiple AI models to automate
 * **✨ Key Features:**
     * **Generative Suite:** Full Article writing & Blog Titles via **Google Gemini**.
     * **Visual AI:** Text-to-Image via **ClipDrop API** & Background Removal via **Cloudinary AI**.
-    * **Tech:** Built with **Vite**, secured by **Clerk**, and styled with **Framer Motion**.
     * **Backend:** Robust **Node.js/Express** architecture with **Multer** for file handling.
 
 #### 🩺 **[Stroke Prediction System](https://github.com/nameisahmedh/strokeprediction)**
@@ -47,11 +67,9 @@ An all-in-one platform utilizing **React 19** and multiple AI models to automate
 
 A sequential workflow application that predicts stroke risks using 7 different Machine Learning algorithms.
 * **Live Demo:** [strokeprediction-1-1ykl.onrender.com](https://strokeprediction-1-1ykl.onrender.com/)
-* **⚙️ Smart Preprocessing:**
-    * Handled class imbalance using **SMOTE (Synthetic Minority Over-sampling Technique)**.
-    * Implemented **MinMax Scaling** and **Chi2 Feature Selection**.
+* **⚙️ Smart Preprocessing:** Handled class imbalance using **SMOTE (Synthetic Minority Over-sampling Technique)** and implemented **Chi2 Feature Selection**.
 * **🧠 Model Power:** Compares **RandomForest, XGBoost, CatBoost, SVM, KNN**, and more.
-* **Production:** Supports **Batch CSV predictions**, saves models as `.pkl`, and is deployed on **Render** using Gunicorn.
+* **Production:** Supports batch CSV predictions and deployed on **Render** using Gunicorn.
 
 #### 📄 **[Arix AI Resume Analyzer](https://github.com/nameisahmedh/arixai_resume_analyzer)**
 > *Hacking the ATS (Applicant Tracking System).*
@@ -59,32 +77,25 @@ A sequential workflow application that predicts stroke risks using 7 different M
 A smart tool that compares your resume against a Job Description (JD) to give you a winning edge.
 * **Live Demo:** [arixai-resume-analyzer.vercel.app](https://arixai-resume-analyzer.vercel.app/)
 * **🧠 The Brain:** Powered by **Perplexity AI** for deep context understanding.
-* **✨ Features:**
-    * **ATS Scoring:** Detailed section-by-section feedback.
-    * **Keyword Gap:** Identifies exactly which keywords you are missing from the JD.
-    * **Tech:** **PostgreSQL** database, **Clerk** Auth, and **Node.js (v20)**.
+* **✨ Features:** ATS Scoring with section-by-section feedback and **Keyword Gap** analysis.
 
 #### 🌸 **[Iris Classification Suite](https://github.com/nameisahmedh/iris-classification)**
 > *Machine Learning Fundamentals Visualization.*
 
 A modern, interactive approach to the classic Iris dataset.
 * **Live Demo:** [iris-classification2.onrender.com](https://iris-classification2.onrender.com/)
-* **✨ Features:**
-    * Real-time switching between **5 ML Models** (RF, SVM, DT, KNN, Naive Bayes).
-    * Instant confidence scores displayed on a responsive Split-Screen UI.
-    * Backend powered by **Flask** and **Scikit-learn**.
+* **✨ Features:** Real-time switching between **5 ML Models** with instant confidence scores on a responsive Split-Screen UI.
 
 #### 👥 **[Arix Staff Management System](https://github.com/nameisahmedh/staff-management-system)**
 > *Internal Tool Logic Showcase.*
 
-A secure React-based system for team efficiency. (Codebase Showcase).
+A secure React-based system for team efficiency (Codebase Showcase).
 * **🔐 Security:** Role-based access (Admin vs Staff) with protected routes.
 * **📋 Task Logic:** Priority levels, overdue detection, and mood tracking attached to specific tasks.
-* **UI/UX:** Dark/Light theme toggle and smooth breadcrumb navigation.
 
 ---
 
-### 📈 **GitHub Stats**
+### 📈 GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=radical&hide_border=true" />
@@ -93,7 +104,7 @@ A secure React-based system for team efficiency. (Codebase Showcase).
 
 ---
 
-### 📫 **Let's Connect**
+### 📫 Let's Connect
 
 I am actively looking for **Data Science Internships** and **Full Stack Opportunities**. If you want to talk about **React 19**, **SMOTE**, or **LLM Integration**, hit me up!
 
