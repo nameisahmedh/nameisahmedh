@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Md Ahmed 👋
 
-<!--
-**nameisahmedh/nameisahmedh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student from Hyderabad, India, focused on **Data Science, Machine Learning, Web Development, and AI tools**.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Languages: Python, Java, JavaScript, TypeScript, SQL
+- Data & ML: NumPy, pandas, scikit-learn, basic NLP, data cleaning
+- Web: HTML, CSS, Tailwind, React/TypeScript (if used), Flask
+- Tools: Git & GitHub, VS Code, Jupyter, Postman
+- Interests: Salesforce & ERP, Cloud, LLMs & RAG, Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- [ArixStructure](https://github.com/nameisahmedh/ArixStructure) – Transforming unstructured text into structured intelligence (data pipelines, preprocessing, basic ML).  
+- [Stroke Prediction](https://github.com/nameisahmedh/strokeprediction) – End-to-end ML mini-project on health data.  
+- [Iris Classification](https://github.com/nameisahmedh/iris-classification) – Classic ML classification project with clear metrics.  
+- [ArixAI Resume Analyzer](https://github.com/nameisahmedh/arixai_resume_analyzer) – AI-based resume analysis tool (JS/TS + APIs).  
+- [Portfolio Websites](https://github.com/nameisahmedh/portfolio-website-for-mohammad) – Modern portfolio in TypeScript.  
+
+## 📚 Currently Learning
+Deep learning basics, LLMs & RAG, advanced DSA in Java, and Salesforce Admin.
+
+## 📬 Contact
+- Email: mdqamarahmed123@gmail.com
+- GitHub Org: [@techWithAhmed](https://github.com/techWithAhmed)
