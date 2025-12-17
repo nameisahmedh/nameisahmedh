@@ -1,29 +1,33 @@
 <div align="center">
 
 <!-- Premium Data Science Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohammad%20Kammar%20Ahmed&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20ML%20Enthusiast&descSize=18&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Kammar%20Ahmed&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=55"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=📊+Data+Science+Student;🤖+ML+Practitioner;🚀+Building+ML+Projects" alt="Title" />
+<!-- Animated Typing Title -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=📊+Data+Science+Student;🤖+ML+Practitioner;🚀+Building+ML+Projects" alt="Title" />
 
-<br/><br/>
+<br/>
 
+<!-- Clean ASCII Banner -->
 ```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   📊 Data Science Student  |  🤖 ML Practitioner  |  🚀 AI Explorer
   Building Production-Ready ML Systems & Predictive Models
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
 
----
+<br/>
 
 <!-- Navigation -->
 <div align="center">
 
-### 🧭 **Quick Navigation**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A78BFA&center=true&width=300&lines=🧭+Quick+Navigation" alt="Navigation" />
+
+<br/>
 
 <a href="#-about-me">
   <img src="https://custom-icon-badges.demolab.com/badge/-About-1e3a8a?style=for-the-badge&logo=person&logoColor=white&labelColor=00D9FF" />
@@ -43,10 +47,14 @@
 
 </div>
 
----
+<br/>
 
 <!-- Social Links -->
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D9FF&center=true&width=400&lines=📡+Connect+with+Me!" alt="Connect" />
+
+<br/><br/>
 
 <a href="https://linkedin.com/in/mohammad-kammar-ahmed-48b391253">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -64,55 +72,27 @@
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 **About Me**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> **About Me**
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D9FF&center=true&width=500&lines=Mohammad+Kammar+Ahmed" alt="Name" />
 
-### Mohammad Kammar Ahmed
-
-🎓 **Data Science Student**  
-📚 B.Tech CSE (Data Science)  
-📍 India 🇮🇳
-
-</td>
-</tr>
-</table>
+🎓 Data Science Student | 📚 B.Tech CSE (Data Science) | 📍 India 🇮🇳
 
 <br/>
 
 ### 💡 What I Do
 
-<table>
-<tr>
-<td width="33%" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=A78BFA&center=true&width=700&lines=Machine+Learning+%7C+Data+Science+%7C+Deployment" alt="Skills" />
 
-**🤖 Machine Learning**  
-Building predictive models  
-& analytics systems
-
-</td>
-<td width="33%" align="center">
-
-**📊 Data Science**  
-Data visualization &  
-statistical analysis
-
-</td>
-<td width="33%" align="center">
-
-**🚀 Deployment**  
-Flask APIs &  
-cloud platforms
-
-</td>
-</tr>
-</table>
+Building predictive models & analytics | Data visualization & analysis | Flask APIs & cloud platforms
 
 <br/>
 
@@ -126,48 +106,60 @@ cloud platforms
 
 ### 🌟 Mission
 
-*"Transform data into actionable insights and create real impact"*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=22D3EE&center=true&width=600&lines=Transform+data+into+actionable+insights" alt="Mission" />
 
 </div>
 
----
+<br/>
 
-## 🧠 **Skills**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Skills**
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### **Data Science & ML**
+<h3 align="center">🤖 Data Science & ML</h3>
 
-✨ **Data Analysis**  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=800&color=00D9FF&center=true&width=400&lines=Data+Analysis+%7C+ML+Algorithms+%7C+Advanced+Tech" alt="DS ML" />
+
+<br/>
+
+**📊 Data Analysis**  
 → pandas, numpy, matplotlib, seaborn  
 → EDA & statistical modeling  
 
-✨ **ML Algorithms**  
+**🤖 ML Algorithms**  
 → Regression, Classification, Clustering  
 → XGBoost, Random Forest, SVM  
 
-✨ **Advanced Techniques**  
+**⚡ Advanced Techniques**  
 → SMOTE, Feature Selection  
 → Hyperparameter Tuning  
 
 </td>
 <td width="50%" valign="top">
 
-### **ML Deployment**
+<h3 align="center">🚀 ML Deployment</h3>
 
-✨ **Production**  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=800&color=A78BFA&center=true&width=400&lines=Production+%7C+Full+Stack+%7C+Cloud+%26+AI" alt="Deployment" />
+
+<br/>
+
+**🔧 Production**  
 → Flask APIs for ML models  
 → Model serialization  
 
-✨ **Full Stack**  
+**💻 Full Stack**  
 → React + Flask applications  
 → Interactive dashboards  
 
-✨ **Cloud & AI**  
+**☁️ Cloud & AI**  
 → Render & Vercel deployment  
 → LLM Integration  
 
@@ -177,13 +169,21 @@ cloud platforms
 
 </div>
 
----
+<br/>
 
-## 💻 **Tech Stack**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"> **Tech Stack**
 
 <div align="center">
 
-### 🧠 **AI & Machine Learning**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&width=300&lines=🛠️+Technologies" alt="Tech" />
+
+<br/>
+
+### 🧠 AI & Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -193,13 +193,13 @@ cloud platforms
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-### 🤖 **LLMs & AI**
+### 🤖 LLMs & AI APIs
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-1C1C1C?style=for-the-badge&logo=ai&logoColor=white)
 
-### ⚙️ **Backend & Deployment**
+### ⚙️ Backend & Cloud
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -207,7 +207,7 @@ cloud platforms
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 🎨 **Frontend**
+### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -215,13 +215,25 @@ cloud platforms
 
 </div>
 
----
+<br/>
 
-## 🚀 **Featured Projects**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> **Featured Projects**
 
 <div align="center">
 
-<table>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A78BFA&center=true&width=350&lines=🚀+My+ML+Projects" alt="Projects" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -298,20 +310,38 @@ cloud platforms
 
 </div>
 
----
+<br/>
 
-## 📊 **GitHub Stats**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **GitHub Stats**
 
 <div align="center">
 
-<!-- Premium Stats Cards -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=FFFFFF&border_radius=12&count_private=false&include_all_commits=false" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nameisahmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&border_radius=12" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&width=350&lines=📊+GitHub+Analytics" alt="Stats" />
+
+<br/>
+
+<!-- Stats Cards Row -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=false&include_all_commits=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=false&include_all_commits=false" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=nameisahmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&border_radius=10" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nameisahmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&border_radius=10" />
+</picture>
 
 <br/><br/>
 
 <!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=12&layout=compact&langs_count=8" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&layout=compact&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&layout=compact&langs_count=8" />
+</picture>
 
 <br/><br/>
 
@@ -320,13 +350,17 @@ cloud platforms
 
 </div>
 
----
+<br/>
 
-## 📬 **Let's Connect**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br/>
+
+## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D9FF&width=350&lines=📬+Let's+Connect" alt="Connect" />
 
 <div align="center">
 
-### 🎯 **Currently Looking For:**
+### 🎯 Currently Looking For
 
 🔹 Data Science / ML Internships & Full-Time Roles  
 🔹 Collaborative Data Science & ML Projects  
@@ -336,7 +370,7 @@ cloud platforms
 
 <br/>
 
-<!-- Footer -->
+<!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
