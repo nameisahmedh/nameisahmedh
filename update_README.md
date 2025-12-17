@@ -1,15 +1,10 @@
 <div align="center">
 
-<!-- Premium Data Science Header -->
+<!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Kammar%20Ahmed&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=55"/>
-
-<br/>
 
 ### 📊 Data Science Student • 🤖 ML Practitioner • 🚀 Building ML Projects
 
-<br/>
-
-<!-- Clean ASCII Banner -->
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   📊 Data Science Student  |  🤖 ML Practitioner  |  🚀 AI Explorer
@@ -19,61 +14,41 @@
 
 </div>
 
-<br/>
+---
 
 <!-- Navigation -->
 <div align="center">
 
-### 🧭 **Quick Navigation**
+### 🧭 Quick Navigation
 
-<a href="#-about-me">
-  <img src="https://custom-icon-badges.demolab.com/badge/-About-1e3a8a?style=for-the-badge&logo=person&logoColor=white&labelColor=00D9FF" />
-</a>
-<a href="#-skills">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Skills-4c1d95?style=for-the-badge&logo=brain&logoColor=white&labelColor=A78BFA" />
-</a>
-<a href="#-tech-stack">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Tech-0c4a6e?style=for-the-badge&logo=tools&logoColor=white&labelColor=38BDF8" />
-</a>
-<a href="#-featured-projects">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Projects-164e63?style=for-the-badge&logo=rocket&logoColor=white&labelColor=22D3EE" />
-</a>
-<a href="#-github-stats">
-  <img src="https://custom-icon-badges.demolab.com/badge/-Stats-1e1b4b?style=for-the-badge&logo=graph&logoColor=white&labelColor=818CF8" />
-</a>
+<a href="#-about-me"><img src="https://custom-icon-badges.demolab.com/badge/-About-1e3a8a?style=for-the-badge&logo=person&logoColor=white&labelColor=00D9FF"/></a>
+<a href="#-skills"><img src="https://custom-icon-badges.demolab.com/badge/-Skills-4c1d95?style=for-the-badge&logo=brain&logoColor=white&labelColor=A78BFA"/></a>
+<a href="#-tech-stack"><img src="https://custom-icon-badges.demolab.com/badge/-Tech-0c4a6e?style=for-the-badge&logo=tools&logoColor=white&labelColor=38BDF8"/></a>
+<a href="#-featured-projects"><img src="https://custom-icon-badges.demolab.com/badge/-Projects-164e63?style=for-the-badge&logo=rocket&logoColor=white&labelColor=22D3EE"/></a>
+<a href="#-github-stats"><img src="https://custom-icon-badges.demolab.com/badge/-Stats-1e1b4b?style=for-the-badge&logo=graph&logoColor=white&labelColor=818CF8"/></a>
 
 </div>
 
-<br/>
+---
 
 <!-- Social Links -->
 <div align="center">
 
-### 📡 **Connect with Me**
+### 📡 Connect with Me
 
-<a href="https://linkedin.com/in/mohammad-kammar-ahmed-48b391253">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:mdqamarahmed123@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/nameisahmedh">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<a href="https://linkedin.com/in/mohammad-kammar-ahmed-48b391253"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:mdqamarahmed123@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/nameisahmedh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=nameisahmedh&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=nameisahmedh&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> **About Me**
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> About Me
 
 <div align="center">
 
@@ -107,13 +82,9 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **Skills**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Skills
 
 <div align="center">
 
@@ -122,8 +93,6 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 <td width="50%" valign="top">
 
 <h3 align="center">🤖 Data Science & ML</h3>
-
-<br/>
 
 **📊 Data Analysis**  
 → pandas, numpy, matplotlib, seaborn  
@@ -141,8 +110,6 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 <td width="50%" valign="top">
 
 <h3 align="center">🚀 ML Deployment</h3>
-
-<br/>
 
 **🔧 Production**  
 → Flask APIs for ML models  
@@ -162,19 +129,11 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"> **Tech Stack**
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30px"> Tech Stack
 
 <div align="center">
-
-### 🛠️ Technologies
-
-<br/>
 
 ### 🧠 AI & Machine Learning
 
@@ -208,21 +167,9 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> **Featured Projects**
-
-<div align="center">
-
-### 🚀 My ML Projects
-
-</div>
-
-<br/>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35px"> Featured Projects
 
 <div align="center">
 
@@ -233,7 +180,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 ### 🤖 **Arix – AI Content Engine**
 
 <a href="https://arix-ai.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-38BDAE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-38BDAE?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -250,7 +197,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 ### 📄 **Arix AI Resume Analyzer**
 
 <a href="https://arixai-resume-analyzer.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-7C4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-7C4DFF?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -268,7 +215,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 ### 🩺 **Stroke Prediction ML System**
 
 <a href="https://strokeprediction-1-1ykl.onrender.com/">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-F75C7E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-F75C7E?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -285,7 +232,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 ### 🌸 **Iris ML Suite**
 
 <a href="https://iris-classification2.onrender.com/">
-  <img src="https://img.shields.io/badge/🌐_Live_Demo-FFA500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Live_Demo-FFA500?style=for-the-badge"/>
 </a>
 
 <br/><br/>
@@ -303,43 +250,28 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> **GitHub Stats**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
 
-### 📊 GitHub Analytics
-
-<br/>
-
-<!-- Stats Cards Row -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=false&include_all_commits=false" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nameisahmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&border_radius=10" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=A78BFA&text_color=FFFFFF&border_radius=10&count_private=false&include_all_commits=false"/>
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=nameisahmedh&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=FFFFFF&border_radius=10"/>
 
 <br/><br/>
 
-<!-- Top Languages -->
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&layout=compact&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_radius=10&layout=compact&langs_count=8"/>
 
 <br/><br/>
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=nameisahmedh&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=nameisahmedh&label=Profile+Views&color=00D9FF&style=for-the-badge&labelColor=0D1117" alt="Profile Views"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 📬 **Let's Connect**
+## 📬 Let's Connect
 
 <div align="center">
 
@@ -353,7 +285,6 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 <br/>
 
-<!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 <div align="center">
