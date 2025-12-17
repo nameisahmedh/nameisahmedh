@@ -1,250 +1,193 @@
-# 🚀 Hi there, I'm Mohammad Kammar Ahmed!
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+I'm+Mohammad+Kammar+Ahmed!;Data+Scientist+%7C+AI+Innovator;Full+Stack+Dev+%7C+React+19;Building+Scalable+AI+Systems&font=Fira+Code&center=true&width=500&height=30&color=38bdae&vCenter=true&pause=1000&size=20" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/mohammad-kammar-ahmed-48b391253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mdqamarahmed123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/nameisahmedh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👨‍💻 About Me</h2>
+      <p>
+        I am a final-year <b>B.Tech CSE (Data Science)</b> student and the <b>General Secretary of Codeoholics</b>. I bridge the gap between complex <b>Machine Learning</b> models and polished <b>React 19</b> interfaces.
+      </p>
+      <blockquote>
+        <b>🚀 Mission:</b> To democratize AI by building "Arix" ecosystems and mastering Agentic AI workflows.
+      </blockquote>
+      <br/>
+      <b>🔭 Current Focus:</b>
+      <ul>
+        <li>Building production-grade <b>ML Pipelines</b> (SMOTE, Hyperparameter Tuning).</li>
+        <li>Integrating <b>Gemini, OpenAI & Perplexity</b> into web apps.</li>
+        <li>Deploying scalable systems on <b>Render & Vercel</b>.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:10px;"/>
+      <br/>
+      <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=nameisahmedh&style=flat-square&color=blueviolet" alt="Profile Views" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ The Technical Arsenal</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="90"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React_19-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat&logo=framer&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB"/>
+      <img src="https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>AI & DS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90"><b>LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlebard&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Perplexity_AI-222?style=flat"/>
+      <img src="https://img.shields.io/badge/ClipDrop-FF6B35?style=flat"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Arix: AI Content Engine</h3>
+      <div align="center">
+        <a href="https://arix-ai.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-FF0000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p><b>The Flagship:</b> An ecosystem integrating Text, Image, and Utility AI.</p>
+      <ul>
+        <li>📝 <b>Gemini API:</b> Full blog & article generation.</li>
+        <li>🎨 <b>ClipDrop:</b> Text-to-Image creation.</li>
+        <li>🖼️ <b>Cloudinary:</b> AI Background removal.</li>
+        <li>⚡ <b>Tech:</b> React 19, Node.js, Multer.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🩺 Stroke Prediction ML</h3>
+      <div align="center">
+        <a href="https://strokeprediction-1-1ykl.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p><b>Data Science in Production:</b> Sequential workflow system.</p>
+      <ul>
+        <li>🧠 <b>7 Models:</b> XGBoost, CatBoost, SVM, RF.</li>
+        <li>⚙️ <b>SMOTE:</b> Handling imbalanced medical data.</li>
+        <li>📊 <b>Analysis:</b> Chi-Squared Feature Selection.</li>
+        <li>⚡ <b>Tech:</b> Python, Flask, Gunicorn.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 Arix AI Resume Analyzer</h3>
+      <div align="center">
+        <a href="https://arixai-resume-analyzer.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p><b>Hacking the ATS:</b> Smart Resume vs. JD Comparison.</p>
+      <ul>
+        <li>🔍 <b>Perplexity AI:</b> Deep context understanding.</li>
+        <li>🎯 <b>Scoring:</b> Section-by-section feedback.</li>
+        <li>🔐 <b>Security:</b> Clerk Authentication.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌸 Iris ML Suite</h3>
+      <div align="center">
+        <a href="https://iris-classification2.onrender.com/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+        </a>
+      </div>
+      <br/>
+      <p><b>Interactive Fundamentals:</b> Real-time visualization.</p>
+      <ul>
+        <li>🔄 <b>Real-time:</b> Switch between 5 ML models.</li>
+        <li>📱 <b>UI:</b> Split-screen responsive design.</li>
+        <li>📈 <b>Metrics:</b> Instant confidence scores.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">📊 The Data</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nameisahmedh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📫 Let's Connect!</h3>
+  <p>I am actively looking for <b>Data Science Internships</b> and <b>Full Stack Roles</b>.</p>
   
-  ```
-  ╔══════════════════════════════════════════════════════════════╗
-  ║  Data Scientist | ML Engineer | AI Tool Explorer            ║
-  ║  Building Scalable AI Systems & Production ML Pipelines     ║
-  ║  Integrating Gemini, OpenAI, Perplexity & LLMs             ║
-  ╚══════════════════════════════════════════════════════════════╝
-  ```
-
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Scientist+%7C+AI+Tool+Explorer;Machine+Learning+Engineer;Full+Stack+Developer+%7C+React+19;Building+Scalable+AI+Systems&font=Fira+Code&center=true&width=600&height=50&color=667eea&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-
-</div>
-
----
-
-<div align="center">
-
-📍 **Hyderabad, India** 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-kammar-ahmed-48b391253/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdqamarahmed123@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nameisahmedh)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a final-year **B.Tech CSE (Data Science)** student and **General Secretary of Codeoholics**, obsessed with bridging the gap between complex **Machine Learning** and intelligent AI systems.
-
-> **🎯 Mission:** Transform raw data into production-grade ML systems with seamless user experiences
-
-### 🔭 Current Focus
-- Building the **Arix** ecosystem with agentic AI workflows
-- Mastering production-grade ML pipelines and deployment
-- Exploring advanced techniques in feature engineering and model optimization
-
-### 🧠 My Strength
-- **End-to-End ML Solutions:** Data preprocessing with **SMOTE**, feature selection, model training, and hyperparameter tuning
-- **Production Deployment:** From Jupyter notebooks to scalable backend systems
-- **Full Stack Integration:** React 19 frontends seamlessly integrated with ML backends
-- **LLM Integration:** Working with Gemini, OpenAI, Perplexity APIs for intelligent applications
-
-### ⚡ The Edge
-- 🤖 Actively test every new AI tool that drops and integrate immediately
-- 📊 Deep expertise in handling imbalanced datasets and feature engineering
-- 🚀 Production experience with model deployment and monitoring
-- 🔄 Continuous learner - always staying ahead of the curve in AI/ML
-
----
-
-## 🛠️ Tech Arsenal
-
-### 🤖 Machine Learning & Data Science
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-009FDF?style=for-the-badge&logo=xgboost&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-FF6B5B?style=for-the-badge&logo=catboost&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3B72A1?style=for-the-badge)
-
-**Core Competencies:** SMOTE | Feature Engineering | Hyperparameter Tuning | Ensemble Methods | Time Series Analysis
-
-### 🌐 Frontend Development
-![React](https://img.shields.io/badge/React_19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Backend & Deployment
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-### 🤖 AI & LLM Integration
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Perplexity AI](https://img.shields.io/badge/Perplexity_AI-222?style=for-the-badge)
-![ClipDrop](https://img.shields.io/badge/ClipDrop-FF6B35?style=for-the-badge)
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 **[Arix: The Ultimate AI Content Engine](https://github.com/nameisahmedh/Arix)**
-> *Flagship project integrating Text, Image, and Utility AI for automated content creation*
-
-**Stack:** React 19 | Node.js/Express | Gemini API | ClipDrop | Cloudinary
-
-**✨ Key Features:**
-- 📝 Full Article writing & Blog title generation via Google Gemini
-- 🎨 Text-to-Image generation via ClipDrop API
-- 🖼️ Background removal via Cloudinary AI
-- 📤 Robust file handling with Multer
-- ☁️ Deployed on Vercel
-
-**🔗 Live Demo:** [arix-ai.vercel.app](https://arix-ai.vercel.app/)
-
----
-
-### 🩺 **[Stroke Prediction System](https://github.com/nameisahmedh/strokeprediction)**
-> *Production-grade ML system comparing 7 algorithms with advanced preprocessing*
-
-**Stack:** Python | Scikit-Learn | Flask | Render | Gunicorn
-
-**⚙️ Smart Features:**
-- 🧠 **7 ML Algorithms:** RandomForest, XGBoost, CatBoost, SVM, KNN, Logistic Regression, Neural Networks
-- 📊 **Advanced Preprocessing:** SMOTE for class imbalance, Chi2 feature selection
-- 📈 **Performance Metrics:** Accuracy, Precision, Recall, F1-Score
-- 📄 **Batch Predictions:** Upload CSV for bulk predictions
-- 🚀 **Production Deployment:** Render with Gunicorn server
-
-**🔗 Live Demo:** [strokeprediction-1-1ykl.onrender.com](https://strokeprediction-1-1ykl.onrender.com/)
-
----
-
-### 📄 **[Arix AI Resume Analyzer](https://github.com/nameisahmedh/arixai_resume_analyzer)**
-> *Smart ATS tool powered by Perplexity AI - hack the Applicant Tracking System*
-
-**Stack:** React | Perplexity AI | LangChain
-
-**✨ Features:**
-- 🎯 ATS Scoring against job descriptions
-- 🔍 Section-by-section feedback
-- 📋 Keyword gap analysis
-- 💡 AI-powered improvement suggestions
-- 🔐 Secure document processing
-
-**🔗 Live Demo:** [arixai-resume-analyzer.vercel.app](https://arixai-resume-analyzer.vercel.app/)
-
----
-
-### 🌸 **[Iris Classification Suite](https://github.com/nameisahmedh/iris-classification)**
-> *Modern interactive ML fundamentals visualization with real-time model comparison*
-
-**Stack:** React | Scikit-Learn | Flask
-
-**✨ Features:**
-- 🔄 Real-time switching between 5 ML models
-- 📊 Instant confidence scores on split-screen UI
-- 📈 Performance comparison charts
-- 🎨 Beautiful responsive design
-
-**🔗 Live Demo:** [iris-classification2.onrender.com](https://iris-classification2.onrender.com/)
-
----
-
-### 👥 **[Arix Staff Management System](https://github.com/nameisahmedh/staff-management-system)**
-> *Secure role-based internal tool showcasing production-ready logic*
-
-**Stack:** React | Node.js | MongoDB
-
-**🔐 Features:**
-- 👮 Role-based access control (Admin vs Staff)
-- 📋 Task management with priority levels
-- ⏰ Overdue detection system
-- 😊 Mood tracking attached to tasks
-- 🔒 Protected routes & authentication
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/nameisahmedh)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&layout=compact&theme=radical&hide_border=true)](https://github.com/nameisahmedh)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nameisahmedh&theme=radical&hide_border=true)](https://github.com/nameisahmedh)
-
-</div>
-
----
-
-## 🎓 Technical Expertise
-
-```
-Data Science & Machine Learning
-├── Supervised Learning (Classification & Regression)
-├── Unsupervised Learning (Clustering, Dimensionality Reduction)
-├── Feature Engineering & Selection
-├── Imbalanced Dataset Handling (SMOTE, Class Weights)
-├── Ensemble Methods & Model Stacking
-├── Hyperparameter Optimization
-└── Production ML Pipelines
-
-AI & LLM Integration
-├── Prompt Engineering
-├── RAG (Retrieval Augmented Generation)
-├── API Integration (Gemini, OpenAI, Perplexity)
-├── Fine-tuning & Few-shot Learning
-└── Agentic AI Workflows
-
-Full Stack Development
-├── Frontend: React 19, Modern UI/UX
-├── Backend: Node.js, Flask REST APIs
-├── Databases: MongoDB, PostgreSQL
-└── DevOps: Docker, Deployment (Render, Vercel)
-```
-
----
-
-## 🎯 What I'm Looking For
-
-✅ **Data Science Internships** - Build ML systems end-to-end  
-✅ **ML Engineering Opportunities** - Production-grade systems  
-✅ **AI/LLM Integration Projects** - Cutting-edge applications  
-✅ **Collaborative Open Source** - Contributing to ML communities  
-
----
-
-## 📫 Let's Connect!
-
-I'm always excited to discuss:
-- 🤖 Machine Learning architectures and best practices
-- 📊 Advanced data preprocessing techniques
-- 🚀 Deploying ML models to production
-- 🌐 Full-stack AI applications
-- 💡 The latest AI tools and frameworks
-
-<div align="center">
-
-**[📧 Email](mailto:mdqamarahmed123@gmail.com)** • 
-**[🔗 LinkedIn](https://www.linkedin.com/in/mohammad-kammar-ahmed-48b391253/)** • 
-**[💻 GitHub](https://github.com/nameisahmedh)** • 
-**[🌐 Portfolio](#)**
-
-### ⭐ If you find my projects useful, don't forget to star them!
-
-</div>
-
----
-
-<div align="center">
-
-**Made with ❤️ by Mohammad Kammar Ahmed**
-
-*"Data is the new oil, but insights are the new currency."*
-
+  <a href="mailto:mdqamarahmed123@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_An_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
