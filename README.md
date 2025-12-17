@@ -3,11 +3,7 @@
 <!-- Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammad%20Kammar%20Ahmed&fontSize=48&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Data%20Science%20Student%20%7C%20ML%20Enthusiast&descSize=16&descAlignY=55"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=📊+Data+Science+Student;🤖+ML+Practitioner;🚀+Building+ML+Projects" alt="Typing Animation"/>
-
-<br/>
+### 📊 Data Science Student • 🤖 ML Practitioner • 🚀 Building ML Projects
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
