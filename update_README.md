@@ -5,8 +5,7 @@
 
 <br/>
 
-<!-- Animated Typing Title -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&lines=📊+Data+Science+Student;🤖+ML+Practitioner;🚀+Building+ML+Projects" alt="Title" />
+### 📊 Data Science Student • 🤖 ML Practitioner • 🚀 Building ML Projects
 
 <br/>
 
@@ -25,9 +24,7 @@
 <!-- Navigation -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A78BFA&center=true&width=300&lines=🧭+Quick+Navigation" alt="Navigation" />
-
-<br/>
+### 🧭 **Quick Navigation**
 
 <a href="#-about-me">
   <img src="https://custom-icon-badges.demolab.com/badge/-About-1e3a8a?style=for-the-badge&logo=person&logoColor=white&labelColor=00D9FF" />
@@ -52,9 +49,7 @@
 <!-- Social Links -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00D9FF&center=true&width=400&lines=📡+Connect+with+Me!" alt="Connect" />
-
-<br/><br/>
+### 📡 **Connect with Me**
 
 <a href="https://linkedin.com/in/mohammad-kammar-ahmed-48b391253">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -82,7 +77,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=800&color=00D9FF&center=true&width=500&lines=Mohammad+Kammar+Ahmed" alt="Name" />
+### **Mohammad Kammar Ahmed**
 
 🎓 Data Science Student | 📚 B.Tech CSE (Data Science) | 📍 India 🇮🇳
 
@@ -90,7 +85,9 @@
 
 ### 💡 What I Do
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3000&pause=500&color=A78BFA&center=true&width=700&lines=Machine+Learning+%7C+Data+Science+%7C+Deployment" alt="Skills" />
+**🤖 Machine Learning** • **📊 Data Science** • **🚀 Deployment**
+
+<br/>
 
 Building predictive models & analytics | Data visualization & analysis | Flask APIs & cloud platforms
 
@@ -106,7 +103,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 ### 🌟 Mission
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&color=22D3EE&center=true&width=600&lines=Transform+data+into+actionable+insights" alt="Mission" />
+*"Transform data into actionable insights and create real impact"*
 
 </div>
 
@@ -126,8 +123,6 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 <h3 align="center">🤖 Data Science & ML</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=800&color=00D9FF&center=true&width=400&lines=Data+Analysis+%7C+ML+Algorithms+%7C+Advanced+Tech" alt="DS ML" />
-
 <br/>
 
 **📊 Data Analysis**  
@@ -146,8 +141,6 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 <td width="50%" valign="top">
 
 <h3 align="center">🚀 ML Deployment</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2500&pause=800&color=A78BFA&center=true&width=400&lines=Production+%7C+Full+Stack+%7C+Cloud+%26+AI" alt="Deployment" />
 
 <br/>
 
@@ -179,7 +172,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&width=300&lines=🛠️+Technologies" alt="Tech" />
+### 🛠️ Technologies
 
 <br/>
 
@@ -225,7 +218,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=A78BFA&center=true&width=350&lines=🚀+My+ML+Projects" alt="Projects" />
+### 🚀 My ML Projects
 
 </div>
 
@@ -320,7 +313,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=00D9FF&center=true&width=350&lines=📊+GitHub+Analytics" alt="Stats" />
+### 📊 GitHub Analytics
 
 <br/>
 
@@ -346,7 +339,7 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 <br/>
 
-## <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D9FF&width=350&lines=📬+Let's+Connect" alt="Connect" />
+## 📬 **Let's Connect**
 
 <div align="center">
 
@@ -367,6 +360,8 @@ Building predictive models & analytics | Data visualization & analysis | Flask A
 
 **⭐ If you find my projects interesting, give them a star! ⭐**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Made+with+💙+by+Mohammad+Kammar+Ahmed;Thanks+for+visiting!+🚀" alt="Footer" />
+<br/>
+
+*Made with 💙 by Mohammad Kammar Ahmed | Thanks for visiting! 🚀*
 
 </div>
