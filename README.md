@@ -10,17 +10,24 @@
 ---
 
 ## 🌟 Flagship Project: RAG-Based ML Teaching Assistant
-> **An intelligent system that lets students "chat" with their lecture videos.**
+> **An intelligent system that lets students "chat" with their lecture videos to find instant answers.**
 
 ### [**📺 Watch Project Demo Video**](https://drive.google.com/file/d/1GGfGsx3oN0IgES0eyMUPExevDRNFAcvr/view) | [**📂 View Source Code**](https://github.com/nameisahmedh/RAG-based-ML-teaching-Assistant)
 
 #### **The Problem**
-Searching for specific concepts (like "Naive Bayes") in 50+ hours of course footage is inefficient. This RAG (Retrieval-Augmented Generation) system provides answers grounded **strictly** in course content.
+Searching for specific concepts (like "Naive Bayes") in 50+ hours of course footage is inefficient and time-consuming.
+
+#### **The Solution**
+An end-to-end **Retrieval-Augmented Generation (RAG)** pipeline that transcribes video audio and uses semantic embeddings to provide answers grounded **strictly** in course content, eliminating AI hallucinations.
+
+#### **🏗️ System Architecture**
+`Videos` ➔ `Audio Extraction` ➔ `Whisper Transcription` ➔ `BGE-M3 Embeddings` ➔ `Vector Storage` ➔ `LLM Inference`
 
 **✨ Key Features:**
-* **Timestamp-Aware:** Answers include the exact **Video Number** and **MM:SS** timestamps.
-* **Zero Hallucinations:** Answers are strictly grounded in provided course data.
-* **Hybrid LLM Support:** Works with local models (**Ollama**) or cloud APIs (**Perplexity Sonar**).
+* **Timestamp-Aware:** Provides the exact **Video Number** and **MM:SS** timestamps for every answer.
+* **Grounded Answers:** No hallucinations — the system only answers using the provided course data.
+* **Semantic Search:** Finds content based on meaning, not just exact keywords.
+* **Hybrid Support:** Compatible with local LLMs (**Ollama**) and cloud APIs (**Perplexity Sonar**).
 
 ---
 
@@ -38,32 +45,21 @@ Searching for specific concepts (like "Naive Bayes") in 50+ hours of course foot
 
 | Project | Feature Highlight | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **Arix AI Engine** | Multi-modal Content Generation | `React`, `Gemini API` | [**Live**](https://arix-ai.vercel.app) |
-| **Stroke Prediction** | 95%+ Accuracy Clinical Analysis | `XGBoost`, `Flask` | [**Live**](https://strokeprediction-1-1ykl.onrender.com/) |
+| **Arix AI Engine** | Multi-modal Content (Text/Image) | `React`, `Gemini API` | [**Live**](https://arix-ai.vercel.app) |
+| **Stroke Prediction** | 95%+ Accuracy Risk Analysis | `XGBoost`, `Flask` | [**Live**](https://strokeprediction-1-1ykl.onrender.com/) |
 | **AI Resume Analyzer** | Semantic ATS Gap Analysis | `Perplexity`, `React` | [**Live**](https://arixai-resume-analyzer.vercel.app/) |
 | **Iris ML Suite** | Hyperplane Visualizer Tool | `Scikit-Learn`, `Python` | [**Live**](https://iris-classification2.onrender.com/) |
-| **Professional Portfolio** | Responsive 3D UI Showcase | `React`, `Tailwind` | [**Live**](https://ahmedportfolio-seven.vercel.app/) |
-
----
-
-## 📊 GitHub Insights
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nameisahmedh&show_icons=true&theme=dark&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nameisahmedh&layout=compact&theme=dark&hide_border=false)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=nameisahmedh&label=Profile+Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
-</p>
+| **Personal Portfolio** | Responsive 3D UI Showcase | `React`, `Tailwind` | [**Live**](https://ahmedportfolio-seven.vercel.app/) |
 
 ---
 
 ## 📬 Let's Connect
 
-I am currently looking for **Data Science / GenAI Internships** and collaborative open-source projects.
+I am currently seeking **Data Science / GenAI Internships** and collaborative projects involving Large Language Models.
 
-* 🔭 **Current Focus:** Advanced RAG optimization & Graph Databases.
-* ⚡ **Fun Fact:** I build AI tools that help me study more efficiently!
+* 🔭 **Current Focus:** Optimizing RAG pipelines and exploring Agentic Workflows.
+* 💬 **Expertise:** AI Deployment, Prompt Engineering, and Predictive Modeling.
+* ⚡ **Fun Fact:** I build AI tools to automate my own learning path!
 
 <p align="center">
   <b>⭐ If you find my projects helpful, please consider giving them a star! ⭐</b><br>
